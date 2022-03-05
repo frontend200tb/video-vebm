@@ -1,4 +1,4 @@
-# video-vebm
+# video-webm
 
 Иван Каширин. Тестовое задание 3 из 8 на позицию frontend в компанию Neuro City
 
