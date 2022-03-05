@@ -1,4 +1,4 @@
-console.log('start frontend200tb video-vebm');
+console.log('start frontend200tb video-webm');
 
 
 /*****************
@@ -81,4 +81,4 @@ const clickPlay = () => {
 video.addEventListener('click', clickPlay);
 
 
-console.log('end frontend200tb video-vebm');
+console.log('end frontend200tb video-webm');
